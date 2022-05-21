@@ -1,4 +1,4 @@
-<p align="center"><img src="https://arb.hmprdctn.de/assets/images/ad_banner.png?" width="800px"></p>
+<p align="center"><img src="https://arb.hmprdctn.de/assets/images/ad_banner.png" width="800px"></p>
 
 # Flutter ARB Editor
 ### Manage your .arb language files easily.
