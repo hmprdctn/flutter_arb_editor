@@ -1,4 +1,6 @@
-<p align="center"><img src="https://arb.hmprdctn.de/assets/images/ad_banner.png" width="800px"></p>
+<p align="center"><img src="https://arb.hmprdctn.de/assets/images/banner-titles.png" width="800px"></p>
+<p align="center"><img src="https://arb.hmprdctn.de/assets/images/banner-screens.png" width="800px"></p>
+
 
 # Flutter ARB Editor
 ### Manage your .arb language files easily.
@@ -14,3 +16,9 @@ To [download](https://arb.hmprdctn.de/start/) the app visit our [website](https:
 ### License
 
 This application is for free. You can use the app for commercial projects.
+
+### Say thanks
+
+If we help to save your time don't hesitate to say thanks. We would be happy to hear from you!
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/homeproduction)
