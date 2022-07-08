@@ -2,12 +2,12 @@
 # CHANGELOG
 
 ## 0.1.1 – Fix: Import arb
-###### v1 – 07-06-2022
+###### v3 – 07-06-2022
 
 * Fix to open not perfectly formatted ARB files
 
 ## 0.1.0 – Release version
-###### v1 – 22-05-2022
+###### v2 – 22-05-2022
 
 * Windows version created
 * MacOS version created
