@@ -1,6 +1,11 @@
 ###### Updated at: 07-06-2022 (dd-mm-yyyy)
 # CHANGELOG
 
+## 0.1.2 – Jump to keys
+###### v4 – 15-07-2022
+
+* new feature to jump top keys via alphabet
+
 ## 0.1.1 – Fix: Import arb
 ###### v3 – 07-06-2022
 
